@@ -5,6 +5,11 @@ Assignment 3 W10D2 - SDA - Software QA Bootcamp
 # Table of contents
 * [Question](#question)
 * [Answer With Output Screenshots](#answer-with-output-screenshots)
+  * [STEP 1: Create a test case for the Application with TestNG Data Provider.](#step-1-create-a-test-case-for-the-application-with-testng-data-provider)
+  * [STEP 2: Create a Test Datasheet.](#step-2-create-a-test-datasheet)
+  * [STEP 3: Create functions to Open and Read data from Excel.](#step-3-create-functions-to-open-and-read-data-from-excel)
+  * [STEP 4: Create a TestNg test case for accepting data from Excel using Data Provider.](#step-4-create-a-testng-test-case-for-accepting-data-from-excel-using-data-provider)
+  * [STEP 5: Run the test against the Test Case name in the Test Data file.](#step-5-run-the-test-against-the-test-case-name-in-the-test-data-file)
 
 ---
 # Question
@@ -12,7 +17,7 @@ Create an automation script using TestNG Data Provider using Excel.
 
 - STEP 1: Create a test case for the Application with TestNG Data Provider.
 - STEP 2: Create a Test Datasheet.
-- STEP 3: Create functions to Open & Read data from Excel.
+- STEP 3: Create functions to Open and Read data from Excel.
 - STEP 4: Create a TestNg test case for accepting data from Excel using Data Provider.
 - STEP 5: Run the test against the Test Case name in the Test Data file.
 
@@ -133,7 +138,7 @@ Download the Excel file [TestData.xlsx](https://github.com/mawaddahH/TestNG-Data
 
 ---
 
-## STEP 3: Create functions to Open & Read data from Excel.
+## STEP 3: Create functions to Open and Read data from Excel.
 Here I just followed the guide on the [TestNG Data Provider with Excel](https://www.toolsqa.com/testng/testng-data-provider-excel/) website, 
 and I just added the `getTableArray` method two times with different argument.
 ```md
