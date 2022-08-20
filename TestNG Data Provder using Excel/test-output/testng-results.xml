@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-20T04:58:12 AST" name="Default suite" finished-at="2022-08-20T04:58:28 AST" duration-ms="16059">
+    <groups>
+    </groups>
+    <test started-at="2022-08-20T04:58:12 AST" name="Default test" finished-at="2022-08-20T04:58:28 AST" duration-ms="16059">
+      <class name="ass2W10D2.DataProviderWithExcel_002">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ass2W10D2.DataProviderWithExcel_002@cd3fee8]" started-at="2022-08-20T04:58:13 AST" name="beforeMethod" finished-at="2022-08-20T04:58:18 AST" duration-ms="5587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:ass2W10D2.DataProviderWithExcel_002@cd3fee8]" started-at="2022-08-20T04:58:18 AST" name="f" data-provider="Authentication" finished-at="2022-08-20T04:58:28 AST" duration-ms="9629" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testuser_2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ass2W10D2.DataProviderWithExcel_002@cd3fee8]" started-at="2022-08-20T04:58:28 AST" name="afterMethod" finished-at="2022-08-20T04:58:28 AST" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ass2W10D2.DataProviderWithExcel_002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
