@@ -22,8 +22,10 @@ Create an automation script using TestNG Data Provider using Excel.
 ## Set up
 
 I used [demoqa-Book Store](https://demoqa.com/books) website
-and I follow all the steps in [TestNG Data Provider with Excel](https://www.toolsqa.com/testng/testng-data-provider-excel/) website
-Before running the code, there are some steps that need to take considered:
+and I follow all the steps in [TestNG Data Provider with Excel](https://www.toolsqa.com/testng/testng-data-provider-excel/) website.
+
+
+And before running the code, there are some steps that need to take considered:
 
 ### First:
 Setup:
