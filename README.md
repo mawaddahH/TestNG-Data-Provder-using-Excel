@@ -5,6 +5,7 @@ Assignment 3 W10D2 - SDA - Software QA Bootcamp
 # Table of contents
 * [Question](#question)
 * [Answer With Output Screenshots](#answer-with-output-screenshots)
+  * [Set up](#set-up)
   * [STEP 1: Create a test case for the Application with TestNG Data Provider.](#step-1-create-a-test-case-for-the-application-with-testng-data-provider)
   * [STEP 2: Create a Test Datasheet.](#step-2-create-a-test-datasheet)
   * [STEP 3: Create functions to Open and Read data from Excel.](#step-3-create-functions-to-open-and-read-data-from-excel)
