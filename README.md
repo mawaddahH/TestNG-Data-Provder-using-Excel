@@ -31,7 +31,6 @@ And before running the code, there are some steps that need to take considered:
 Setup:
 - [JDK](https://www.oracle.com/java/technologies/downloads/) (Lastest)
 - [Eclipse](https://www.eclipse.org/) (Lastest)
-- [Web Driver](https://chromedriver.chromium.org/downloads) for Chrome Driver (Lastest)
 
 Donwload the necessary jar files:
 - [Selenium](https://www.selenium.dev/downloads/) (Lastest).
