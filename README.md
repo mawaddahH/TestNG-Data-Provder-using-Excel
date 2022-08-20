@@ -323,7 +323,7 @@ In this step I used `WebDriverWait` because the method `implicitlyWait(long, Tim
 new WebDriverWait(driver, Duration.ofSeconds(10));
 ```
 
-also, add the `[TestData.xlsx](https://github.com/mawaddahH/TestNG-Data-Provder-using-Excel/files/9385946/TestData.xlsx)` path in the code:
+also, add the [TestData.xlsx](https://github.com/mawaddahH/TestNG-Data-Provder-using-Excel/files/9385946/TestData.xlsx) path in the code:
 ```md
 Object[][] testObjArray = ExcelUtils.getTableArray("C:/Users/lo0ol/Downloads/TestData.xlsx", "Sheet1", 1);
 ```
